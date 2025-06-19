@@ -1,4 +1,4 @@
-x = 5
+x = 6
 y = 1
 
 for i in range (1,11):
