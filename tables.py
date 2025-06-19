@@ -1,4 +1,4 @@
-x = 21
+x = 22
 y = 1
 
 for i in range (1,11):
