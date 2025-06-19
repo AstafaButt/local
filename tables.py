@@ -1,4 +1,4 @@
-x = 17
+x = 18
 y = 1
 
 for i in range (1,11):
